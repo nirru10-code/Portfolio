@@ -1,0 +1,5 @@
+this file is for the plans and ideas of my creative coding project.
+
+Possible ideas for this project:
+-average temperture of 5 capital cities  in europe
+-
