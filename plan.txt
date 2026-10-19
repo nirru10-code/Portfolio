@@ -6,3 +6,9 @@ Possible ideas for this project:
 -emotions per day
 -music
 - battery percentage
+
+Possible uses of recording data:
+-spreadsheet on excel
+-use of notes on phone 
+-use of diary
+
