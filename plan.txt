@@ -19,3 +19,5 @@ is suitable for my Dear Data project
 
 The key timestamps for recording my batttery is 10am, 1pm, 4pm, 7pm, 10pm.(subject to change depending on if the 
 test recordings work or if the idea changes)
+
+in addition to this im also recording my total screen time and the amount of Times i have charged my phone
