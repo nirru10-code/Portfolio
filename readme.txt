@@ -7,3 +7,4 @@ I will also record how many times i charged my phone throughout the day
 
 The key timestamps for recording my batttery is 10am, 1pm, 4pm, 7pm and 10pm
 The total date of the recording of data will be over 20 consecutive days.
+
